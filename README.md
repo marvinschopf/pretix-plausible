@@ -1,12 +1,8 @@
-Plausible Analytics
-==========================
+# Plausible Analytics
 
-This is a plugin for `pretix`_. 
+**[Plausible Analytics](https://plausible.io) integration for [Pretix](https://pretix.eu).**
 
-Short description
-
-Development setup
------------------
+## Development setup
 
 1. Make sure that you have a working `pretix development setup`_.
 
@@ -41,15 +37,18 @@ You can auto-fix some of these issues by running::
 To automatically check for these issues before you commit, you can run ``.install-hooks``.
 
 
-License
--------
+## License
 
+Copyright (C) 2021 Marvin Schopf
 
-Copyright 2021 Marvin Schopf
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
 
-Released under the terms of the Apache License 2.0
+ http://www.apache.org/licenses/LICENSE-2.0
 
-
-
-.. _pretix: https://github.com/pretix/pretix
-.. _pretix development setup: https://docs.pretix.eu/en/latest/development/setup.html
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
