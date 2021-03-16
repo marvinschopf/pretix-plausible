@@ -1,0 +1,5 @@
+recursive-include pretix_plausible/static *
+recursive-include pretix_plausible/templates *
+recursive-include pretix_plausible/locale *
+include LICENSE
+exclude .gitlab-ci.yml
